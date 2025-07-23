@@ -1,0 +1,30 @@
+# Claude Code settings (個人の設定ファイル)
+.claude/settings.json
+
+# 実験結果ファイル (実行時に生成される)
+results.txt
+custom-test-results.txt
+
+# macOS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Logs
+*.log
+debug_output.log
+
+# Temporary files
+*.tmp
+*.temp
